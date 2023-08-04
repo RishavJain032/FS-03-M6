@@ -1,0 +1,18 @@
+.head{
+    margin-top: 10%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 800;
+    font-weight: 800;
+}
+.para1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* font-weight: 800; */
+}
+.para2{
+    display: flex;
+    margin-left: 20%;
+}
