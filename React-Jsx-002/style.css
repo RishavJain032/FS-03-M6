@@ -1,0 +1,23 @@
+.main{
+    width: 600px;
+    height: 450px;
+    box-shadow: 0 0 10px black;
+    margin-top: 3%;
+    margin-left: 25%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:#ff5a5f;
+    border-radius: 8px;
+}
+.head{
+    margin-top: 15%;
+    margin-left: 25%;
+    color: white;
+}
+.head1{
+    color: white;
+}
+.air{
+    margin-left:25% ;
+}
