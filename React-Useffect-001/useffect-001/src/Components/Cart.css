@@ -1,0 +1,14 @@
+.menuDiv {
+    width: 30vw;
+    height: 90vh;
+    background-image: url("../Image/bg.jpg");
+    background-size: 100% 100%;
+    border-radius: 10px;
+    margin: 20px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: gray;
+    font-family: 'Lobster', cursive;
+  
+  }
